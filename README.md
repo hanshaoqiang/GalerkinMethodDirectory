@@ -1,4 +1,4 @@
 GalerkinMethodDirectory
 =======================
 
-Code to store Galerkin method files
+Repository to store Galerkin method files
